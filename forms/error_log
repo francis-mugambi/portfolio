@@ -1,0 +1,14 @@
+[15-Nov-2022 15:43:53 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:44:28 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:45:37 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:45:40 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:45:43 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:45:51 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:48:53 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:48:58 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 8
+[15-Nov-2022 15:55:12 UTC] PHP Warning:  include(): Filename cannot be empty in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 13
+[15-Nov-2022 15:55:12 UTC] PHP Warning:  include(): Failed opening '' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 13
+[15-Nov-2022 15:55:12 UTC] PHP Fatal error:  Uncaught Error: Class 'PHP_Email_Form' not found in /home/careergu/web-devschool.com/myfolio/forms/contact.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/forms/contact.php on line 18

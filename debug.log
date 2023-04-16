@@ -1,0 +1,8 @@
+[0415/103850.477:ERROR:file_io.cc(90)] ReadExactly: expected 152, observed 40
+[0415/103850.496:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0415/103951.511:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0415/104033.190:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0415/104103.602:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0415/104147.966:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0415/104451.880:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics
+[0415/104504.513:ERROR:crashpad.cc(149)] Failed to get activation factory for IPlatformDiagnosticsAndUsageDataSettingsStatics

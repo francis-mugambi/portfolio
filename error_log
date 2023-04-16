@@ -1,0 +1,104 @@
+[23-Dec-2022 13:14:36 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[23-Dec-2022 13:16:34 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[23-Dec-2022 13:19:46 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[23-Dec-2022 13:20:40 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[23-Dec-2022 14:59:16 UTC] PHP Warning:  require(phpmailer/src/exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 14:59:16 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:03:10 UTC] PHP Warning:  require(phpmailer/src/exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:03:10 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:03:49 UTC] PHP Warning:  require(phpmailer/src/exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:03:49 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:04:07 UTC] PHP Warning:  require(phpmailer/src/exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:04:07 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:06:52 UTC] PHP Warning:  require(phpmailer/src/exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:06:52 UTC] PHP Fatal error:  require(): Failed opening required 'phpmailer/src/exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 5
+[23-Dec-2022 15:11:01 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/careergu/web-devschool.com/myfolio/contact.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 4
+[23-Dec-2022 15:12:37 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/careergu/web-devschool.com/myfolio/contact.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 4
+[23-Dec-2022 15:13:02 UTC] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/careergu/web-devschool.com/myfolio/contact.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 4
+[23-Dec-2022 15:16:20 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[23-Dec-2022 15:24:49 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[25-Dec-2022 18:45:18 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[30-Dec-2022 09:40:22 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 19
+[30-Dec-2022 10:02:15 UTC] PHP Warning:  require_once(contacts.html): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 10:02:15 UTC] PHP Fatal error:  require_once(): Failed opening required 'contacts.html' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 10:03:14 UTC] PHP Warning:  require_once(contacts.html): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 10:03:14 UTC] PHP Fatal error:  require_once(): Failed opening required 'contacts.html' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 10:04:48 UTC] PHP Warning:  require_once(contacts.html): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 10:04:48 UTC] PHP Fatal error:  require_once(): Failed opening required 'contacts.html' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 10:14:23 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:15:42 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:15:54 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:17:09 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:18:47 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:51:37 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:51:37 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 10:51:58 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 10:51:58 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 10:54:26 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 24
+[30-Dec-2022 10:54:26 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 29
+[30-Dec-2022 11:02:54 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:02:54 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 11:03:48 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:04:03 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:05:53 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:07:34 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:07:34 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 11:07:51 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:07:51 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 11:17:51 UTC] PHP Warning:  require_once(/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:17:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:18:14 UTC] PHP Warning:  require_once(/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:18:14 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:19:45 UTC] PHP Warning:  require_once(/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:19:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:19:51 UTC] PHP Warning:  require_once(/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php): failed to open stream: No such file or directory in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:19:51 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/careergu/web-devschool.com/myfolio/vendor/phpmailer/src/Exception.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/careergu/web-devschool.com/myfolio/contact.php on line 6
+[30-Dec-2022 11:25:11 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:26:54 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:28:52 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:31:01 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:33:21 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:35:39 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 23
+[30-Dec-2022 11:38:15 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 24
+[30-Dec-2022 11:38:15 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 11:42:53 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 24
+[30-Dec-2022 11:42:53 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 11:43:17 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 24
+[30-Dec-2022 11:43:17 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 11:51:57 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 24
+[30-Dec-2022 11:51:57 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 12:19:39 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 24
+[30-Dec-2022 12:19:39 UTC] PHP Warning:  mail() has been disabled for security reasons in /home/careergu/web-devschool.com/myfolio/contact.php on line 28
+[30-Dec-2022 12:39:37 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/careergu/web-devschool.com/myfolio/contact.php on line 7
+[30-Dec-2022 12:39:37 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, bool given in /home/careergu/web-devschool.com/myfolio/contact.php on line 7
+[30-Dec-2022 12:42:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/careergu/web-devschool.com/myfolio/contact.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 9
+[30-Dec-2022 12:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/careergu/web-devschool.com/myfolio/contact.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 9
+[30-Dec-2022 12:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/careergu/web-devschool.com/myfolio/contact.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 9
+[30-Dec-2022 12:47:03 UTC] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'careergu_francis'@'localhost' to database 'myfolio_messages' in /home/careergu/web-devschool.com/myfolio/contact.php on line 14
+[30-Dec-2022 12:53:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/careergu/web-devschool.com/myfolio/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 21
+[30-Dec-2022 12:53:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /home/careergu/web-devschool.com/myfolio/contact.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/careergu/web-devschool.com/myfolio/contact.php on line 21
+[01-Jan-2023 19:35:57 UTC] PHP Parse error:  syntax error, unexpected 'background' (T_STRING), expecting ';' or ',' in /home/careergu/web-devschool.com/myfolio/admin.php on line 18
