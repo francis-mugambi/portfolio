@@ -1,2 +1,2 @@
-# portfolio
-This is my portfolio source code
+# My Portfolio
+This is the source code for my portfolio.
